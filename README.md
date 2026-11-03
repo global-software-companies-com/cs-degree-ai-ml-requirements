@@ -1,5 +1,7 @@
 # Selected CS degree AI and ML requirements
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23917045.svg)](https://doi.org/10.5281/zenodo.23917045)
+
 Research by **Global Software Companies**. Version **2026-10-12b**.
 
 Documentation, downloads and citation: [www.globalsoftwarecompanies.com/research-data/#cs-degree-ai-requirements-dataset](https://www.globalsoftwarecompanies.com/research-data/#cs-degree-ai-requirements-dataset).
@@ -30,6 +32,6 @@ The [field guide](FIELD-GUIDE.md) defines every column and the important status 
 
 The GSC contribution is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/), allowing reuse, adaptation and redistribution, including commercially, with attribution. See [LICENSE.md](LICENSE.md).
 
-> Global Software Companies (2026). *Selected CS degree AI and ML requirements*. Version 2026-10-12b. https://www.globalsoftwarecompanies.com/research-data/#cs-degree-ai-requirements-dataset. CC BY 4.0.
+> Global Software Companies (2026). *Selected CS degree AI and ML requirements*. Version 2026-10-12b. https://doi.org/10.5281/zenodo.23917045. Documentation: https://www.globalsoftwarecompanies.com/research-data/#cs-degree-ai-requirements-dataset. CC BY 4.0.
 
 Credit Global Software Companies, preferably linking [the dataset's page](https://www.globalsoftwarecompanies.com/research-data/#cs-degree-ai-requirements-dataset); retain the license notice and identify modifications.
