@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+type: dataset
+title: "Selected CS degree AI and ML requirements"
+version: "2026-10-12b"
+authors:
+  - name: "Global Software Companies"
+    website: "https://www.globalsoftwarecompanies.com/"
+license: CC-BY-4.0
+url: "https://www.globalsoftwarecompanies.com/research-data/#cs-degree-ai-requirements-dataset"
+repository-code: "https://github.com/global-software-companies-com/cs-degree-ai-ml-requirements"
+keywords:
+  - "computer science education"
+  - "curriculum"
+  - "degree requirements"
+  - "artificial intelligence"
+  - "machine learning"
+  - "undergraduate degrees"
+  - "university catalogs"
+  - "CS2023"
+  - "United States"
+  - "Europe"

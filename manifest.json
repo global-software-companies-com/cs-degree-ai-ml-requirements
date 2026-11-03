@@ -1,0 +1,32 @@
+{
+  "dataset": "universities",
+  "title": "Selected CS degree AI and ML requirements",
+  "version": "2026-10-12b",
+  "publisher": "Global Software Companies",
+  "publisher_url": "https://www.globalsoftwarecompanies.com/",
+  "license": "CC-BY-4.0",
+  "license_scope": "GSC contribution; linked source originals excluded",
+  "files": {
+    "universities.csv": {
+      "sha256": "beeef79eab08c7130ae7b81bee2b172023e125e564c06b51299ea4f1caa114ad",
+      "rows": 92,
+      "columns": 30
+    },
+    "README.md": {
+      "sha256": "6b4cc285f5e8c4b5be150e2448261ff99011c4a45f975aadb7e84ba827e18830"
+    },
+    "FIELD-GUIDE.md": {
+      "sha256": "a7a8cab0e04ede62516b5d65fc70cf67a480d255cbdecc8eb4da485788e4652b"
+    },
+    "REPRODUCE.md": {
+      "sha256": "94f3e249209b67e216ac742d8d56d27b1b8e87a256eac8350b424a862c80dc0c"
+    },
+    "reproduce.py": {
+      "sha256": "137dd6f13a06b52b347dbeec9989e3f9e56adbba888618bfa8baba05cf8d64ce"
+    },
+    "LICENSE.md": {
+      "sha256": "c9c7bd4e312dee665ff1e8ba403681cf57b791b8cbad6c874df8622dd75f6af9"
+    }
+  },
+  "documentation_url": "https://www.globalsoftwarecompanies.com/research-data/#cs-degree-ai-requirements-dataset"
+}
