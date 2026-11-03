@@ -6,6 +6,8 @@ Research by **Global Software Companies**. Version **2026-10-12b**.
 
 Documentation, downloads and citation: [www.globalsoftwarecompanies.com/research-data/#cs-degree-ai-requirements-dataset](https://www.globalsoftwarecompanies.com/research-data/#cs-degree-ai-requirements-dataset).
 
+Also available on [Zenodo](https://doi.org/10.5281/zenodo.23917045), [Kaggle](https://www.kaggle.com/datasets/globalsoftwarecompan/cs-degree-ai-ml-requirements) and [Hugging Face](https://huggingface.co/datasets/GlobalSoftwareCompanies/cs-degree-ai-ml-requirements).
+
 Published AI/ML requirements, selectable courses, optional routes, credit allocations and source qualifications for selected computer-science degree programs in the United States and Europe.
 
 `universities.csv` contains **92 observations**, covering **46 program/track pairs** at **42 institutions**, with 30 columns. Each row describes one program at an earlier or later comparison endpoint, nominally **2021–22** and **2026–27**. Source editions and entrant applicability can differ from those reference periods.
